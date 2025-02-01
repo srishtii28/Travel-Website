@@ -124,7 +124,7 @@ body {
       rgba(255, 255, 255, 0),
       var(--primary-color)
     ),
-    url("assets/header-1.jpg");
+    url("https://github.com/srishtii28/Travel-Website/blob/144a0ad325a1f44a585f0c466fba5b08ec2c75f5/img/header.jpg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
